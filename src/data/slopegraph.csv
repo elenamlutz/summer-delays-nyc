@@ -1,0 +1,17 @@
+carrier_name,year,ratio_delays
+American Airlines Inc.,2014,22.5
+American Airlines Inc.,2018,23.3
+Delta Air Lines Inc.,2014,21.0
+Delta Air Lines Inc.,2018,20.9
+Envoy Air,2014,26.5
+Envoy Air,2018,25.0
+ExpressJet Airlines Inc.,2014,26.2
+ExpressJet Airlines Inc.,2018,30.8
+JetBlue Airways,2014,25.7
+JetBlue Airways,2018,30.4
+SkyWest Airlines Inc.,2014,33.5
+SkyWest Airlines Inc.,2018,31.3
+Southwest Airlines Co.,2014,30.5
+Southwest Airlines Co.,2018,30.8
+United Air Lines Inc.,2014,21.6
+United Air Lines Inc.,2018,25.7
